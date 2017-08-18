@@ -11,4 +11,4 @@
 * [nganimate](https://github.com/JieDreambuilder/ng-demo/blob/master/nganimate.html)
 * [ngevent](https://github.com/JieDreambuilder/ng-demo/blob/master/ngevent.html)
 * [ngroute](https://github.com/JieDreambuilder/ng-demo/blob/master/ngroute.html)
-* [nghttp](https://github.com/JieDreambuilder/ng-demo/blob/master/ngroute.html)
+* [nghttp](https://github.com/JieDreambuilder/ng-demo/blob/master/nghttp.html)
